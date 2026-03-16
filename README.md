@@ -58,3 +58,4 @@ print("--------------------------------------------------------------")
 ## Result : 
    The average number of material in the system and in the conveyor and waiting are  successfully found.
 
+https://github.com/Tharunramaids/Muttiple-capacity-with-infinite-capacity
